@@ -5,4 +5,4 @@ This is a Xamarin.Forms sample program to learn PCL Storage with Mac-Finder-Like
 * English: http://fightwithprogramming.blogspot.jp/2018/03/pcl-storage-2.html
 * Japanese: 
 
-[Keywords] Xamarin.Forms, 
+[Keywords] Xamarin.Forms, PCL Storage, ListView, Mac Finder, Windows Explorer, Popup Menu, TapGestureRecognizer, Double Click, ContextActions, CommandParameter, {Binding .}, ListView.Footer, RowHeight of Grid where Label is placed, Border Color of Entry, INotifyPropertyChanged, ObservableCollection, OnSizeAllocated, Recursively Sort Hierarchy Data, NewGuid
